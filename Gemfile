@@ -60,3 +60,4 @@ gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 
 gem 'paperclip', '>= 4.3.6'
+gem 'masonry-rails', '~> 0.2.4'
