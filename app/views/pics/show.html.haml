@@ -2,7 +2,7 @@
 %p= @pic.description
 %p
 Pic by
-= @pic.user.email
+= @pic.user.present? ? @pic.user.email : 'Anonimous'
 
 %br
 
