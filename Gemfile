@@ -59,5 +59,9 @@ gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'jquery-rails'
 
+# gem that help us to handle images with JQuery
 gem 'paperclip', '>= 4.3.6'
 gem 'masonry-rails', '~> 0.2.4'
+
+# gem that help us to give "likes"
+gem 'acts_as_votable', '~> 0.12.1'
